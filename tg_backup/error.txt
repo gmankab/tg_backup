@@ -1,0 +1,22 @@
+╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+│ /home/gmanka/proj/tg_backup/tg_backup/main.py:146 in backup                  │
+│                                                                              │
+│   143 ):                                                                     │
+│   144 │   try:                                                               │
+│   145 │   │   cache_dir = Path(f'{data_path}/cache')                         │
+│ ❱ 146 │   │   for file in config['path']:                                    │
+│   147 │   │   │   file = Path(file)                                          │
+│   148 │   │   │   shutil.rmtree(                                             │
+│   149 │   │   │   │   cache_dir,                                             │
+│                                                                              │
+│ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+│ │        bot = <pyrogram.client.Client object at 0x7fc449ca3190>           │ │
+│ │    c_error = <console width=80 None>                                     │ │
+│ │  cache_dir = PosixPath('/home/gmanka/proj/tg_backup/tg_backup_data/cach… │ │
+│ │ error_path = '/home/gmanka/proj/tg_backup/tg_backup/error.txt'           │ │
+│ │       file = <_io.TextIOWrapper                                          │ │
+│ │              name='/home/gmanka/proj/tg_backup/tg_backup/error.txt'      │ │
+│ │              mode='w' encoding='UTF-8'>                                  │ │
+│ ╰──────────────────────────────────────────────────────────────────────────╯ │
+╰──────────────────────────────────────────────────────────────────────────────╯
+TypeError: 'NoneType' object is not iterable
