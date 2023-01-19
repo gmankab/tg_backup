@@ -7,7 +7,7 @@
    viewBox="0 0 67.733334 67.733334"
    version="1.1"
    id="svg383"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="icon.svg"
    inkscape:export-filename="icon.png"
    inkscape:export-xdpi="96"
@@ -27,11 +27,11 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.0544998"
-     inkscape:cx="-30.346142"
-     inkscape:cy="116.64298"
-     inkscape:window-width="1600"
-     inkscape:window-height="828"
+     inkscape:zoom="1.4912879"
+     inkscape:cx="266.21285"
+     inkscape:cy="172.66954"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -65,7 +65,7 @@
      inkscape:label="circle" />
   <g
      id="Слой_2"
-     transform="matrix(0,-0.31410151,0.31410151,0,-2.2900905,71.037918)"
+     transform="matrix(-0.31410151,0,0,-0.31410151,71.037919,70.023424)"
      inkscape:label="arrow">
     <g
        id="g26"
